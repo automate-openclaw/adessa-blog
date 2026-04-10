@@ -1,0 +1,12 @@
+{
+  "title": "Welcome to the Adessa Blog",
+  "subtitle": "AI-powered marketing insights for small businesses",
+  "excerpt": "We're building the future of small business marketing. Follow along as we share insights, strategies, and product updates.",
+  "author": { "name": "Adessa Team", "role": "Marketing" },
+  "publishedAt": "2026-04-10",
+  "updatedAt": null,
+  "readingTimeMin": 2,
+  "tags": ["announcements", "adessa"],
+  "status": "published",
+  "coverImage": null
+}
