@@ -1,5 +1,3 @@
-# Automated Social Media Marketing: What to Automate and What Not To
-
 **Automated social media marketing** can save hours every week, but only if you automate the right parts.
 
 The mistake is treating automation like a replacement for taste. That is how brands end up posting generic captions, vague motivational quotes, and content nobody asked for.

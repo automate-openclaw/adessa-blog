@@ -1,5 +1,3 @@
-# What an AI Marketing Platform Should Actually Do
-
 An **AI marketing platform** should do more than help you write a caption or generate a few ad ideas. That is useful, but it is not the hard part of marketing.
 
 The hard part is turning a business goal into a campaign, adapting that campaign for each channel, launching it, watching performance, and improving it before money gets wasted.
