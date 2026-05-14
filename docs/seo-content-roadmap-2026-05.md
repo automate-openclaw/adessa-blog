@@ -15,9 +15,10 @@ Build topical authority for Adessa around AI marketing, AI advertising, automate
 - 2026-05-07 — What an AI Marketing Platform Should Actually Do
 - 2026-05-07 — Automated Social Media Marketing: What to Automate and What Not To
 - 2026-05-14 — How to Lower ACOS on Amazon in 30 Days
+- 2026-05-14 — AI Advertising Platform: What to Look For Before You Buy
 
 ## This week's publisher plan
-- Tuesday 2026-05-12 — **AI Advertising Platform: What to Look For Before You Buy**
+- Tuesday 2026-05-12 — **AI Advertising Platform: What to Look For Before You Buy** — published
   - Intent: commercial/category evaluation.
   - Angle: buyer criteria for platforms that create, launch, measure, and improve campaigns — not a competitor teardown.
   - Internal links: `/pricing`, `/blog/ai-marketing-platform`, `/for`.
@@ -31,7 +32,7 @@ Build topical authority for Adessa around AI marketing, AI advertising, automate
 ### Cluster 1 — Broad category pages/posts
 - What an AI Marketing Platform Should Actually Do — published
 - Automated Social Media Marketing: What to Automate and What Not To — published
-- AI Advertising Platform: What to Look For Before You Buy — planned for 2026-05-12
+- AI Advertising Platform: What to Look For Before You Buy — published
 - Marketing Automation for Small Businesses: A Practical Buyer’s Guide
 - AI Social Media Tools vs AI Marketing Platforms
 
