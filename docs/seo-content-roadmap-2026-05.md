@@ -14,13 +14,14 @@ Build topical authority for Adessa around AI marketing, AI advertising, automate
 - 2026-04-10 — Welcome to the Adessa Blog
 - 2026-05-07 — What an AI Marketing Platform Should Actually Do
 - 2026-05-07 — Automated Social Media Marketing: What to Automate and What Not To
+- 2026-05-14 — How to Lower ACOS on Amazon in 30 Days
 
 ## This week's publisher plan
 - Tuesday 2026-05-12 — **AI Advertising Platform: What to Look For Before You Buy**
   - Intent: commercial/category evaluation.
   - Angle: buyer criteria for platforms that create, launch, measure, and improve campaigns — not a competitor teardown.
   - Internal links: `/pricing`, `/blog/ai-marketing-platform`, `/for`.
-- Thursday 2026-05-14 — **How to Lower ACOS on Amazon in 30 Days**
+- Thursday 2026-05-14 — **How to Lower ACOS on Amazon in 30 Days** — published
   - Intent: practical Amazon seller pain point with high commercial adjacency.
   - Angle: budget allocation, query cleanup, creative testing, landing-page lift, and off-Amazon support; no fake claims or invented case studies.
   - Internal links: `/for/amazon-sellers`, `/tools/acos-calculator`, `/blog/ai-marketing-platform`.
@@ -35,7 +36,7 @@ Build topical authority for Adessa around AI marketing, AI advertising, automate
 - AI Social Media Tools vs AI Marketing Platforms
 
 ### Cluster 2 — Amazon/high-intent posts
-- How to Lower ACOS on Amazon in 30 Days — planned for 2026-05-14
+- How to Lower ACOS on Amazon in 30 Days — published
 - What Is ACOS? A Plain-English Guide for Amazon Sellers
 - Sponsored Products vs Sponsored Brands
 - Best Amazon PPC Software for Small Sellers in 2026 — hold unless Jonathan approves a non-critical category/listicle approach
