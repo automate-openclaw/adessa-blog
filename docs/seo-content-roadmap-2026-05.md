@@ -3,12 +3,12 @@
 ## Goal
 Build topical authority for Adessa around AI marketing, AI advertising, automated social media, marketing automation, and high-intent buyer use cases.
 
-## Status snapshot — 2026-05-11
-- Production crawlability has improved since the 2026-05-07 review: `/`, `/blog`, current blog posts, `/robots.txt`, `/sitemap.xml`, `/llms.txt`, `/compare`, `/for`, and `/for/amazon-sellers` all return `200` with no redirect-to-login and no `noindex` detected by curl.
-- Sitemap includes the blog posts plus the `/compare`, `/for`, tools, legal, and support URLs.
-- Google Search Console data could not be checked from Jarvis yet: current Google OAuth token is missing Search Console scopes and the API returned `403 ACCESS_TOKEN_SCOPE_INSUFFICIENT` for `google.searchconsole.v1.SitesService.List`.
-- Bing Webmaster data is not configured locally yet; no Bing/Webmaster config files or environment hints were found.
-- Web search spot-check: Google/Gemini search sees the homepage for an Adessa AI query, but no reliable evidence yet that `/for/amazon-sellers` is indexed.
+## Status snapshot — 2026-05-18
+- Production crawlability remains healthy: `/`, `/blog`, latest blog posts, `/robots.txt`, `/sitemap.xml`, `/llms.txt`, `/compare`, `/for`, and `/for/amazon-sellers` all returned `200` with no redirect-to-login and no `noindex` detected by curl.
+- Sitemap includes the latest posts plus `/compare`, `/for`, tools, legal, and support URLs. `robots.txt` allows public crawl paths and points to `https://www.adessa.ai/sitemap.xml`.
+- Google Search Console data could not be checked from Jarvis yet. The Google OAuth refresh succeeded, but the token still lacks Search Console scopes; the API returned `403 ACCESS_TOKEN_SCOPE_INSUFFICIENT` for both `google.searchconsole.v1.SitesService.List` and `google.searchconsole.v1.searchanalytics.SearchAnalyticsService.Query`.
+- Bing Webmaster data is not configured locally yet; no Bing/Webmaster config files, environment hints, or CLI were found.
+- Web search spot-check could not be used this week because the configured Gemini search path returned `429 RESOURCE_EXHAUSTED`. Do not infer index coverage from that failed check.
 
 ## Published so far
 - 2026-04-10 — Welcome to the Adessa Blog
@@ -27,18 +27,28 @@ Build topical authority for Adessa around AI marketing, AI advertising, automate
   - Angle: budget allocation, query cleanup, creative testing, landing-page lift, and off-Amazon support; no fake claims or invented case studies.
   - Internal links: `/for/amazon-sellers`, `/tools/acos-calculator`, `/blog/ai-marketing-platform`.
 
+## Next publisher plan
+- Tuesday 2026-05-19 — **What Is ACOS? A Plain-English Guide for Amazon Sellers**
+  - Intent: beginner-to-commercial Amazon PPC education.
+  - Angle: define ACOS, break-even ACOS, TACOS, campaign goals, and what actions to take when ACOS is too high or misleading.
+  - Internal links: `/tools/acos-calculator`, `/for/amazon-sellers`, `/blog/how-to-lower-acos-on-amazon`.
+- Thursday 2026-05-21 — **AI Social Media Tools vs AI Marketing Platforms**
+  - Intent: commercial comparison/category education without naming competitors.
+  - Angle: explain when standalone scheduling/content tools are enough and when a business needs campaign creation, publishing, measurement, and learning loops in one platform.
+  - Internal links: `/blog/automated-social-media-marketing`, `/blog/ai-marketing-platform`, `/for`, `/pricing`.
+
 ## Priority clusters
 
 ### Cluster 1 — Broad category pages/posts
 - What an AI Marketing Platform Should Actually Do — published
 - Automated Social Media Marketing: What to Automate and What Not To — published
 - AI Advertising Platform: What to Look For Before You Buy — published
-- Marketing Automation for Small Businesses: A Practical Buyer’s Guide
-- AI Social Media Tools vs AI Marketing Platforms
+- AI Social Media Tools vs AI Marketing Platforms — planned 2026-05-21
+- Marketing Automation for Lean Teams: A Practical Buyer’s Guide
 
 ### Cluster 2 — Amazon/high-intent posts
 - How to Lower ACOS on Amazon in 30 Days — published
-- What Is ACOS? A Plain-English Guide for Amazon Sellers
+- What Is ACOS? A Plain-English Guide for Amazon Sellers — planned 2026-05-19
 - Sponsored Products vs Sponsored Brands
 - Best Amazon PPC Software for Small Sellers in 2026 — hold unless Jonathan approves a non-critical category/listicle approach
 
