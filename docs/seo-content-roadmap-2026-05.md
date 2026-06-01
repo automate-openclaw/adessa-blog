@@ -17,6 +17,7 @@ Build topical authority for Adessa around AI marketing, AI advertising, automate
 - 2026-05-14 — How to Lower ACOS on Amazon in 30 Days
 - 2026-05-14 — AI Advertising Platform: What to Look For Before You Buy
 - 2026-05-26 — What Is ACOS? A Plain-English Guide for Amazon Sellers
+- 2026-05-31 — AI Social Media Tools vs AI Marketing Platforms
 
 ## Previous publisher plan
 - Tuesday 2026-05-12 — **AI Advertising Platform: What to Look For Before You Buy** — published
@@ -36,7 +37,7 @@ Build topical authority for Adessa around AI marketing, AI advertising, automate
 - Thursday 2026-05-21 — **AI Social Media Tools vs AI Marketing Platforms** — not published
   - Intent: commercial comparison/category education without naming competitors.
   - Angle: explain when standalone scheduling/content tools are enough and when a business needs campaign creation, publishing, measurement, and learning loops in one platform.
-  - Internal links: `/blog/automated-social-media-marketing`, `/blog/ai-marketing-platform`, `/for`, `/pricing`.
+  - Internal links: `/blog/automated-social-media-marketing`, `/blog/ai-marketing-platform`, `/pricing`.
 
 ## This week's publisher plan
 - Tuesday 2026-05-26 — **What Is ACOS? A Plain-English Guide for Amazon Sellers** — published
@@ -44,9 +45,16 @@ Build topical authority for Adessa around AI marketing, AI advertising, automate
   - Angle: define ACOS, break-even ACOS, TACOS, campaign goals, and what actions to take when ACOS is too high or misleading.
   - Internal links: `/tools/acos-calculator`, `/for/amazon-sellers`, `/blog/how-to-lower-acos-on-amazon`.
 - Thursday 2026-05-28 — **AI Social Media Tools vs AI Marketing Platforms**
+  - Status: published 2026-05-31.
   - Intent: commercial comparison/category education without naming competitors.
   - Angle: explain when standalone scheduling/content tools are enough and when a business needs campaign creation, publishing, measurement, and learning loops in one platform.
-  - Internal links: `/blog/automated-social-media-marketing`, `/blog/ai-marketing-platform`, `/for`, `/pricing`.
+  - Internal links: `/blog/automated-social-media-marketing`, `/blog/ai-marketing-platform`, `/pricing`.
+
+## Next planned publisher topic
+- **AI Marketing for Restaurants: What to Automate First**
+  - Intent: high-intent ICP/use-case education.
+  - Angle: a practical restaurant marketing workflow around offers, local social, paid campaigns, menus/events, reviews, and weekly performance review without fake case studies.
+  - Internal links: `/for`, `/pricing`, and `/blog/automated-social-media-marketing`.
 
 ## Priority clusters
 
@@ -54,7 +62,7 @@ Build topical authority for Adessa around AI marketing, AI advertising, automate
 - What an AI Marketing Platform Should Actually Do — published
 - Automated Social Media Marketing: What to Automate and What Not To — published
 - AI Advertising Platform: What to Look For Before You Buy — published
-- AI Social Media Tools vs AI Marketing Platforms — planned 2026-05-28
+- AI Social Media Tools vs AI Marketing Platforms — published
 - Marketing Automation for Lean Teams: A Practical Buyer’s Guide
 
 ### Cluster 2 — Amazon/high-intent posts
