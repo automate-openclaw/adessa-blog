@@ -18,6 +18,7 @@ Build topical authority for Adessa around AI marketing, AI advertising, automate
 - 2026-05-14 — AI Advertising Platform: What to Look For Before You Buy
 - 2026-05-26 — What Is ACOS? A Plain-English Guide for Amazon Sellers
 - 2026-05-31 — AI Social Media Tools vs AI Marketing Platforms
+- 2026-06-02 — AI Marketing for Restaurants: What to Automate First
 
 ## Previous publisher plan
 - Tuesday 2026-05-12 — **AI Advertising Platform: What to Look For Before You Buy** — published
@@ -52,9 +53,16 @@ Build topical authority for Adessa around AI marketing, AI advertising, automate
 
 ## Next planned publisher topic
 - **AI Marketing for Restaurants: What to Automate First**
+  - Status: published 2026-06-02.
   - Intent: high-intent ICP/use-case education.
   - Angle: a practical restaurant marketing workflow around offers, local social, paid campaigns, menus/events, reviews, and weekly performance review without fake case studies.
   - Internal links: `/for`, `/pricing`, and `/blog/automated-social-media-marketing`.
+
+## Next topic candidate
+- **Marketing Automation for Lean Teams: A Practical Buyer's Guide**
+  - Intent: broad category/commercial evaluation.
+  - Angle: explain what lean teams should automate first across planning, creative, publishing, ads, landing pages, and reporting; keep it practical and avoid vendor comparisons unless approved.
+  - Internal links: `/pricing`, `/for`, and `/blog/ai-marketing-platform`.
 
 ## Priority clusters
 
@@ -72,7 +80,7 @@ Build topical authority for Adessa around AI marketing, AI advertising, automate
 - Best Amazon PPC Software for Small Sellers in 2026 — hold unless Jonathan approves a non-critical category/listicle approach
 
 ### Cluster 3 — ICP support pages
-- AI Marketing for Restaurants
+- AI Marketing for Restaurants — published
 - AI Marketing for Gyms
 - AI Marketing for Dentists
 - AI Marketing for SaaS Startups

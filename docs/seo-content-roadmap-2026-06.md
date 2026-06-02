@@ -24,8 +24,14 @@ Build durable organic visibility around AI marketing, AI advertising, automated 
   - Intent: commercial category education without naming competitors.
   - Internal links: `/blog/automated-social-media-marketing`, `/blog/ai-marketing-platform`, `/pricing`.
 
+## Content shipped this week
+- 2026-06-02 — **AI Marketing for Restaurants: What to Automate First**
+  - Intent: high-intent local business use-case education.
+  - Internal links: `/for`, `/pricing`, `/blog/automated-social-media-marketing`.
+
 ## This week's publisher plan
 - Tuesday 2026-06-02 — **AI Marketing for Restaurants: What to Automate First**
+  - Status: published 2026-06-02.
   - Target keyword: `AI marketing for restaurants`
   - Intent: high-intent local business use-case education.
   - Angle: a practical restaurant workflow for offers, local social posts, paid campaigns, menu/event promotion, review loops, and weekly performance review without fake case studies or unsupported performance claims.
@@ -52,7 +58,7 @@ Build durable organic visibility around AI marketing, AI advertising, automated 
 - Best Amazon PPC Software for Small Sellers in 2026 — hold unless Jonathan approves a non-critical category/listicle approach
 
 ### Cluster 3 — ICP support posts
-- AI Marketing for Restaurants — planned 2026-06-02
+- AI Marketing for Restaurants — published
 - AI Marketing for Gyms — planned 2026-06-04
 - AI Marketing for Dentists
 - AI Marketing for SaaS Startups
