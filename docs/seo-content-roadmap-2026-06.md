@@ -28,15 +28,17 @@ Build durable organic visibility around AI marketing, AI advertising, automated 
 
 ## This Week's Publisher Plan
 - Tuesday 2026-06-09 — **AI Marketing for Gyms: How to Fill Classes Without Living on Social Media**
+  - Status: published 2026-06-09.
   - Target keyword: `AI marketing for gyms`
   - Intent: high-intent local business use-case education.
   - Angle: turn class schedules, seasonal offers, transformation stories, retention nudges, and paid/social campaigns into a repeatable weekly marketing loop.
   - Internal links: `/for`, `/for/gyms`, `/pricing`, `/blog/ai-marketing-platform`, and `/blog/automated-social-media-marketing`.
 - Thursday 2026-06-11 — **AI Marketing for Dentists: What to Automate Before You Buy More Ads**
+  - Status: published 2026-06-16.
   - Target keyword: `AI marketing for dentists`
   - Intent: high-intent local business use-case education.
   - Angle: practical dental marketing workflow for new-patient offers, recall/reactivation, local service-line campaigns, review mining, ad creative, and weekly performance review without clinical claims or fake patient outcomes.
-  - Internal links: `/for`, `/for/dentists`, `/pricing`, `/blog/marketing-automation-for-lean-teams`, and `/blog/ai-advertising-platform`.
+  - Internal links: `/for/dentists`, `/pricing`, and `/blog/ai-advertising-platform`.
 
 ## Priority Clusters
 
@@ -56,8 +58,8 @@ Build durable organic visibility around AI marketing, AI advertising, automated 
 
 ### Cluster 3 — ICP support posts
 - AI Marketing for Restaurants — published
-- AI Marketing for Gyms — planned 2026-06-09
-- AI Marketing for Dentists — planned 2026-06-11
+- AI Marketing for Gyms — published
+- AI Marketing for Dentists — published
 - AI Marketing for SaaS Startups
 - AI Marketing for Fashion Brands
 
