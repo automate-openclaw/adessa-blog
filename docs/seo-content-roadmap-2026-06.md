@@ -48,7 +48,7 @@ Build durable organic visibility around AI marketing, AI advertising, automated 
 - AI Advertising Platform: What to Look For Before You Buy — published
 - AI Social Media Tools vs AI Marketing Platforms — published
 - Marketing Automation for Lean Teams: A Practical Buyer's Guide — published
-- Weekly Marketing Plan with AI: What to Decide, Draft, Launch, and Review — next broad-category candidate
+- Weekly Marketing Plan with AI: What to Decide, Draft, Launch, and Review — published 2026-06-18
 
 ### Cluster 2 — Amazon/high-intent posts
 - How to Lower ACOS on Amazon in 30 Days — published
@@ -60,7 +60,7 @@ Build durable organic visibility around AI marketing, AI advertising, automated 
 - AI Marketing for Restaurants — published
 - AI Marketing for Gyms — published
 - AI Marketing for Dentists — published
-- AI Marketing for SaaS Startups
+- AI Marketing for SaaS Startups — next high-intent candidate
 - AI Marketing for Fashion Brands
 
 ## Internal Linking Rules
