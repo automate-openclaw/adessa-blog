@@ -27,11 +27,11 @@ Build durable organic visibility around AI marketing, AI advertising, automated 
 
 ## This Week's Publisher Plan
 - Tuesday 2026-06-23 — **AI Marketing for SaaS Startups: Build a Demand Loop Before You Hire a Team**
-  - Status: planned.
+  - Status: published 2026-06-23.
   - Target keyword: `AI marketing for SaaS startups`
   - Intent: high-intent ICP support for lean founders evaluating marketing automation.
   - Angle: turn positioning, launch assets, lifecycle content, paid experiments, and weekly review into a small-team demand loop without implying fake traction or guaranteed growth.
-  - Internal links: `/for`, `/pricing`, `/blog/marketing-automation-for-lean-teams`, `/blog/weekly-marketing-plan-with-ai`, and `/blog/ai-marketing-platform`.
+  - Internal links: `/blog/weekly-marketing-plan-with-ai`, `/pricing`, and `/for/saas`.
 - Thursday 2026-06-25 — **AI Campaign Launch Checklist: From Business URL to Platform-Ready Ads**
   - Status: planned.
   - Target keyword: `AI campaign launch checklist`
@@ -60,7 +60,7 @@ Build durable organic visibility around AI marketing, AI advertising, automated 
 - AI Marketing for Restaurants — published
 - AI Marketing for Gyms — published
 - AI Marketing for Dentists — published
-- AI Marketing for SaaS Startups — planned 2026-06-23
+- AI Marketing for SaaS Startups — published 2026-06-23
 - AI Marketing for Fashion Brands
 
 ## Internal Linking Rules
