@@ -3,7 +3,7 @@
 ## Goal
 Keep compounding durable organic visibility around AI marketing on autopilot, high-intent operator workflows, and Amazon seller education while avoiding fake claims, fake review schema, and competitor-critical content without Jonathan approval.
 
-## Status Snapshot - 2026-07-20
+## Status Snapshot - 2026-07-27
 - Production crawlability is mostly healthy by curl. `/`, `/blog`, `/robots.txt`, `/sitemap.xml`, `/llms.txt`, `/compare`, `/for`, `/for/amazon-sellers`, `/blog/ai-campaign-launch-checklist`, `/blog/ai-marketing-for-saas-startups`, and `/blog/weekly-marketing-plan-with-ai` returned `200` with zero redirects.
 - Confirmed indexable article pages:
   - `/blog/ai-campaign-launch-checklist` returned `200`, emitted canonical markup, had no `noindex`, and included `BlogPosting` schema.
@@ -21,18 +21,18 @@ Keep compounding durable organic visibility around AI marketing on autopilot, hi
 - Bing Webmaster data was not checked. Local checks found no Bing/Webmaster config files, no relevant Bing/Webmaster environment variable names, and no `bing`, `bingsiteauth`, or `gcloud` CLI available.
 
 ## Content Shipped Last Week
-- No new blog posts landed between 2026-07-13 and 2026-07-19.
-- The planned 2026-07-14 and 2026-07-16 topics did not land as real posts in `automate-openclaw/adessa-blog` or the live sitemap.
+- No new blog posts landed between 2026-07-20 and 2026-07-26.
+- The planned 2026-07-21 and 2026-07-23 topics did not land as real posts in `automate-openclaw/adessa-blog` or the live sitemap.
 - The live URLs `/blog/ai-marketing-for-fashion-brands` and `/blog/sponsored-products-vs-sponsored-brands` return `200`, but they are the noindexed blog shell with no canonical and no `BlogPosting` schema, so they should not be counted as shipped content.
 
 ## This Week's Publisher Plan
-- Tuesday 2026-07-21 - **AI Marketing for Fashion Brands: Turn Drops, Content, and Retargeting Into a Weekly Loop**
+- Tuesday 2026-07-28 - **AI Marketing for Fashion Brands: Turn Drops, Content, and Retargeting Into a Weekly Loop**
   - Status: carry-forward again because it still has not published; requires publisher cron re-enable or a manual approved publisher run.
   - Target keyword: `AI marketing for fashion brands`
   - Intent: high-intent ICP/use-case education for operators with product launches, seasonal drops, creator assets, and repeat purchase loops.
   - Angle: show how fashion brands can turn product drops, offer windows, creator content, email/social promotion, paid creative, retargeting, and weekly review into one repeatable campaign rhythm without fake performance claims.
   - Internal links: `/for`, `/pricing`, `/blog/ai-campaign-launch-checklist`, `/blog/automated-social-media-marketing`, and `/blog/marketing-automation-for-lean-teams`.
-- Thursday 2026-07-23 - **Sponsored Products vs Sponsored Brands: Which Amazon Ad Type Should You Use First?**
+- Thursday 2026-07-30 - **Sponsored Products vs Sponsored Brands: Which Amazon Ad Type Should You Use First?**
   - Status: carry-forward again because it still has not published; requires publisher cron re-enable or a manual approved publisher run.
   - Target keyword: `Sponsored Products vs Sponsored Brands`
   - Intent: Amazon PPC education with commercial adjacency for sellers deciding what to launch or clean up first.
@@ -53,7 +53,7 @@ Keep compounding durable organic visibility around AI marketing on autopilot, hi
 ### Cluster 2 - Amazon / High-Intent Posts
 - How to Lower ACOS on Amazon in 30 Days - published
 - What Is ACOS? A Plain-English Guide for Amazon Sellers - published
-- Sponsored Products vs Sponsored Brands - planned 2026-07-23
+- Sponsored Products vs Sponsored Brands - planned 2026-07-30
 - Best Amazon PPC Software for Small Sellers in 2026 - hold unless Jonathan approves a non-critical category/listicle approach
 
 ### Cluster 3 - ICP Support Posts
@@ -61,10 +61,10 @@ Keep compounding durable organic visibility around AI marketing on autopilot, hi
 - AI Marketing for Gyms - published
 - AI Marketing for Dentists - published
 - AI Marketing for SaaS Startups - published
-- AI Marketing for Fashion Brands - planned 2026-07-21
+- AI Marketing for Fashion Brands - planned 2026-07-28
 
 ## Separate App-Code Brief
-- Keep monitoring sitemap completeness, but the 2026-07-20 production check showed all 14 real blog URLs present.
+- Keep monitoring sitemap completeness, but the 2026-07-27 production check showed all 14 real blog URLs present.
 - Make unknown blog slugs return a real 404, or at least a clearly non-indexable 404 status, instead of a `200` noindexed blog shell.
 - Add a homepage canonical tag.
 - Broaden `llms.txt` positioning from "for small businesses" toward "AI marketing on autopilot" while keeping pricing/audience details factual.
