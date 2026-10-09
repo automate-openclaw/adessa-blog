@@ -48,6 +48,40 @@ The key is to keep the brief specific. "Promote our business" is not enough. "Pr
 
 For teams still choosing what to automate first, our guide to [marketing automation for lean teams](/blog/marketing-automation-for-lean-teams) breaks down why the brief should come before asset production.
 
+### Copy this one-page campaign worksheet
+
+Use one row per campaign, not one row per channel. That keeps the business goal
+visible when a single idea becomes several assets.
+
+| Field | Fill in before drafting |
+|---|---|
+| Business goal | The customer action this campaign should encourage |
+| Audience | Who needs this offer and what question they need answered |
+| Offer | The approved product, service, price and availability |
+| Evidence | Source links, approved examples or materials supporting the message |
+| Destination | The exact page or booking link the customer should reach |
+| Asset owner | Who prepares the draft and revisions |
+| Final reviewer | One named person responsible for accepting the final version |
+| Launch decision | Approved version, channel and intended publication time |
+| Result | Visits, enquiries or purchases, with the source and reporting period |
+| Next decision | Keep, revise or stop, and why |
+
+Here is an illustrative example, not a customer result: a local gym wants more
+trial-class enquiries for an underfilled weekday session. Its brief should name
+the session, verified availability, intended local audience and booking page.
+The review checks those facts before choosing a caption or ad variation. The
+result field records actual enquiries after launch—not a prediction from the AI.
+
+Try this prompt:
+
+> Using only the facts in this worksheet, prepare two campaign angles and one
+> draft for each selected channel. List missing facts separately. Keep the offer
+> and destination consistent. Do not invent results, testimonials or availability.
+
+At the end of the week, compare the work with the original goal. If you generated
+ten assets but cannot identify the customer action or approved version, fix the
+brief and review process before increasing output.
+
 ## Decide what AI should draft
 
 AI is strongest when it works from approved inputs.
