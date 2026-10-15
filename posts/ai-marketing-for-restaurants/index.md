@@ -106,6 +106,36 @@ From there, AI can generate variations:
 
 That does not guarantee results. Restaurant demand changes with weather, location, service quality, menu fit, reviews, and competition. But it gives the team a better loop: launch with a hypothesis, measure the result, then improve the next campaign instead of starting over.
 
+## Restaurant ads automation: what to put on rules, and what to keep human
+
+Restaurant ads automation works best for the mechanical parts of paid campaigns: timing, service area, spend caps, pausing, and reporting. Decisions that depend on the kitchen, the brand, or the guest relationship, such as which offer to run, whether an ad is accurate, and how to answer an unhappy guest, should stay with a person.
+
+That split matters because restaurant ads follow service, not a marketing calendar. An ad that keeps running after a dish sells out, or keeps spending on a night that is already full, costs money and can frustrate guests. Rules catch those situations quickly. People are better at deciding what the restaurant should be saying in the first place.
+
+Most ad platforms include the basic controls. Google Ads, for example, lets you limit when ads are eligible to show with an [ad schedule](https://support.google.com/google-ads/answer/6372656), and ads do not show outside the scheduled times. Schedules follow the ad account's time zone, so confirm it matches the restaurant's. Google Ads [automated rules](https://support.google.com/google-ads/answer/2472779) can change ad status, budgets, or bids, or send an email, when conditions you choose are met. Other platforms offer similar options with different requirements, so check the current help documentation for the platform and campaign type you use before relying on a rule.
+
+### A worksheet for restaurant ad rules
+
+This is an illustrative template, not a set of results or benchmarks. Use one row per situation the restaurant actually faces.
+
+| When this happens | Automate this | Guardrail | What to measure |
+|---|---|---|---|
+| A recurring slow night, such as Tuesday | Schedule ads only for the hours before dinner service that night | Daily or total spend cap set in advance | Covers or reservations compared with the same night in prior weeks |
+| A promoted dish or offer sells out | Pause the ads that promote it | A person confirms it is available again before ads resume | Spend that ran after the item was unavailable |
+| The weekend is already fully booked | Reduce or stop spend aimed at those nights | Leave campaigns for searches of the restaurant's own name running | How far ahead the weekend books up |
+| Catering or private-event season | Launch a pre-approved inquiry campaign in a defined service area | Someone approves the offer, area, and budget before launch | Qualified inquiries, not clicks |
+| Cost per reservation or inquiry rises above the owner's limit | Send an alert and pause; never raise the budget automatically | A person reviews before anything restarts | Cost per reservation or inquiry |
+| End of each week | Generate a short performance summary | A manager reads it before choosing next week's offers | One recorded decision: keep, change, or stop |
+
+The thresholds in that table, such as what counts as a slow night or how high cost per inquiry can go, should come from the restaurant's own numbers. Start with one or two rows. Check every automated change for the first few weeks, and add new rules only after the existing ones behave the way you expect.
+
+Keep these decisions human, even when a tool could make them:
+
+- Which offer to promote, and whether a discount is worth the margin
+- Whether the photos, prices, hours, and availability in an ad are accurate
+- Any budget increase
+- Replies to negative or sensitive reviews and messages (more on that below)
+
 ## Automate review mining, not review replies blindly
 
 Reviews are one of the strongest local marketing inputs a restaurant has, but they are easy to mishandle.
@@ -158,7 +188,7 @@ Every week, the system should summarize:
 
 That review should be written in operator language. A restaurant manager does not need a dashboard full of isolated metrics. They need the practical answer: what should we run again, what should we stop, and what should we test next?
 
-This is where a broader AI marketing platform can do more than a posting tool. The value is the loop between planning, publishing, ads, landing pages, and reporting. Adessa is being built around that broader workflow: [AI marketing on autopilot](https://www.adessa.ai/for), with pricing designed to be simple enough for lean teams to evaluate without a long software procurement cycle. You can see the current plan on the [pricing page](https://www.adessa.ai/pricing).
+This is where a broader AI marketing platform can do more than a posting tool. The value is the loop between planning, publishing, ads, landing pages, and reporting. Adessa is being built around that broader workflow: [AI marketing on autopilot](https://www.adessa.ai/for/restaurants), with pricing designed to be simple enough for lean teams to evaluate without a long software procurement cycle. You can see the current plan on the [pricing page](https://www.adessa.ai/pricing).
 
 ## A practical automation order for restaurants
 
