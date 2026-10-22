@@ -6,6 +6,21 @@ Many sellers see a high ACOS and immediately cut budgets, pause campaigns, or lo
 
 A better 30-day plan is to separate waste from investment. Some spend is unprofitable because the targeting is sloppy. Some spend is temporarily high because you are launching, ranking, or testing a new product. Your job is to know which is which.
 
+## Reduce ACOS on Amazon: what to check first
+
+If you only have ten minutes, match what you see in the account to the most likely cause before changing anything. (New to the formula? Start with [What is ACOS?](https://www.adessa.ai/blog/what-is-acos-amazon))
+
+| What you see | Likely cause | First move | Avoid |
+|---|---|---|---|
+| Search terms with clicks but no orders | Loose targeting in broad, phrase or auto campaigns | Pull the search term report and negate terms that pass your click threshold (below) | Cutting the whole campaign budget |
+| Orders, but ACOS above break-even on specific terms | Cost per click too high for the product margin | Lower bids on those terms only | Account-wide bid cuts |
+| Healthy click-through, weak conversion | Listing or offer problem | Fix the main image, title, price or coupon before touching bids | Blaming the ads first |
+| Few impressions and clicks on proven terms | Bids or relevance too low | Check relevance and bids on terms that already convert | Adding more broad keywords |
+| High ACOS only on a new product | Launch spend | Give the launch a time window and a spend ceiling | Holding a launch to a profit-campaign target |
+| ACOS falls, but total sales fall too | Cuts reached profitable traffic | Check total sales and TACOS alongside ACOS | Treating a lower ACOS as the win by itself |
+
+The rest of this plan works through those levers in order over 30 days.
+
 ## What ACOS actually measures
 
 ACOS stands for advertising cost of sales.
@@ -86,6 +101,21 @@ Then take action:
 - Keep discovery campaigns alive, but cap their budget so they cannot drain the account.
 
 The key phrase is “meaningful clicks.” Do not kill a keyword after two clicks and no orders. But if a term has consumed the amount you would reasonably pay for a sale and still has nothing to show, it needs to be reduced, negated, or isolated.
+
+### How many clicks before you negate a search term?
+
+"Meaningful clicks" is easier to act on when it is a number. One simple threshold:
+
+> Click threshold ≈ (average order value × target ACOS) ÷ average cost per click
+
+Illustrative example (not a benchmark): a $40 product with a 30% target ACOS can afford about $12 of ad spend per order. At an average cost per click of $0.80, that is about 15 clicks. A search term that has taken roughly 15 clicks without an order has spent a full order's worth of budget, so it is a candidate to lower, isolate, or negate. Use your own price, margin and cost per click, and give low-volume terms a longer window before deciding.
+
+A few details from Amazon's own documentation help here:
+
+- The Sponsored Products search term report only includes search terms that received at least one ad click, so it will not show every impression.
+- Orders in that report are attributed to ad clicks over a window of days (7 days for the standard purchase columns), so a term clicked yesterday may not show its order yet.
+- Use **negative exact** to block a specific query and its close variations, and **negative phrase** to block queries that contain a phrase or close variations. Negative phrase keywords are limited to 4 words and negative exact to 10 words, both with an 80-character limit, and you cannot change the match type of an existing negative keyword.
+- Amazon lists a buffer of up to 72 hours before new negative keywords take effect, so judge the change after a few days, not the next morning.
 
 ## Days 11-15: adjust bids with intent in mind
 
