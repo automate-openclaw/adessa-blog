@@ -5,6 +5,8 @@ launch decision, and a report that explains what happened.
 Start with one client and one goal. Before migrating your portfolio, walk through
 these seven checks with the same brief you would use in your day-to-day work.
 
+Replacing an agency rather than choosing software? That handover is a different job. Start with our [agency transition checklist](/blog/switching-ad-agencies-transition-checklist) for account ownership, exports and the cutover date, then come back here to evaluate tools.
+
 ## 1. Keep the client context clear
 
 Bring the client's website, offer, target audience, brand assets and approval
@@ -73,6 +75,18 @@ additional client workspaces at $11 per month each. The 3-day trial includes two
 client workspaces. See [current plans and features](/pricing) and the
 [agency workflow](/agencies) before choosing a plan.
 
+## Before you commit: test the exit
+
+The seven checks show whether a platform can run your client work. One more test shows whether you can leave cleanly when a client moves on or your agency changes tools. Run it during the trial, while switching is still cheap.
+
+- **Reports:** Export one client report in the format you would hand over, such as PDF or CSV. Check that it includes the date range, spend and data source, not only charts.
+- **Creative:** Download a finished asset with its final copy. Confirm you receive the revised version, not an earlier draft.
+- **Ad accounts:** List which ad accounts the client owns and which campaigns run through the platform. For client-owned accounts, note who has admin access and how to remove the platform's access. For campaigns the platform launches, ask what happens to running campaigns and their history if the client leaves.
+- **Assistant access:** If you connected ChatGPT, Claude or another assistant, find where to disconnect it or revoke its key. Then confirm it can no longer read that client's information.
+- **Billing:** Find out how to remove a client workspace and when its billing stops.
+
+In Adessa, client-ready summaries can be exported to PDF or CSV. Managed launch is available on supported channels where platform APIs permit it; on other channels, you connect a client-owned account. See the [agency workflow](/agencies) for details.
+
 ## A simple acceptance sheet
 
 Copy this into a shared document and fill in the observed result—not just a tick beside the feature name.
@@ -86,6 +100,7 @@ Copy this into a shared document and fill in the observed result—not just a ti
 | Assistant handoff | Complete one supported task in your chosen assistant | The saved result and its status, not only a chat response |
 | Reporting | Compare the same dates across two client reports | Data source, timezone, conversion definition and missing data |
 | Client costs | Calculate the bill at two client counts | Subscription, additional workspaces and ad spend separated |
+| Exit | Export one report and one asset, then list each account's owner | A file you could hand over, plus how to remove access and stop billing |
 
 For every row, add an owner, expected result, observed result, evidence link and remaining question. A missing feature can be a deliberate tradeoff; an unknown result means the test is not finished.
 
