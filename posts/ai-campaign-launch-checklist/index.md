@@ -191,14 +191,14 @@ When results move in the first week, the first question is usually "what changed
 
 It helps the first weekly review separate platform review and learning from creative, offer, or landing-page problems. The review itself is covered in our [weekly marketing plan guide](/blog/weekly-marketing-plan-with-ai).
 
-Illustrative template (example rows, not real campaign data):
+Illustrative template (example rows, not real campaign data). If more than one person can edit the accounts, add a column for who approved each change.
 
-| Date | Platform | What changed | Platform learning affected? | Approved by | What to compare after |
-|---|---|---|---|---|---|
-| Mon | Google Ads | Ads submitted paused for review | No | Owner | Status is "Eligible" before launch |
-| Wed | Meta | New ad set launched | Yes, learning starts | Owner | Results in the week after launch |
-| Thu | Website | Booking form shortened | No, site change | Web lead | Form completion rate |
-| Fri | Google Ads | Switched to a new bid strategy | Yes, may show "Learning" | Owner | Hold judgment until learning ends |
+| Date | What changed | Learning affected? | Compare after |
+|---|---|---|---|
+| Mon | Google Ads: ads submitted paused for review | No | Status is "Eligible" before launch |
+| Wed | Meta: new ad set launched | Yes, learning starts | Results in the week after launch |
+| Thu | Website: booking form shortened | No, site change | Form completion rate |
+| Fri | Google Ads: switched to a new bid strategy | Yes, may show "Learning" | Hold judgment until learning ends |
 
 If the log shows a significant edit two days before a bad week, that is the first thing to discuss, before rewriting the ads.
 
