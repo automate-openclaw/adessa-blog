@@ -162,6 +162,46 @@ Campaigns fail for boring reasons all the time: old links, unclear CTAs, mismatc
 
 A checklist prevents those misses.
 
+## Platform pre-flight: what Google and Meta check before your ads run
+
+The checklist above is about whether the campaign is right. This section is about whether the ad platforms will let it run the way you expect on launch day.
+
+The details below come from Google Ads Help and Meta Business Help pages, checked on November 5, 2026. Platforms change these pages, so recheck the sources listed below before you rely on a specific number.
+
+| Check | Google Ads | Meta | What to do before launch day |
+|---|---|---|---|
+| Ad review | Creating or editing an ad starts review. Most ads are reviewed within one business day; complex reviews can take longer. | Review starts automatically after you create or edit an ad. Most ads are reviewed within 24 hours, sometimes longer, and ads can be reviewed again after they go live. | Submit ads several days early. Google reviews paused ads just like active ones, so you can submit them paused and switch them on at launch. |
+| Destination | The destination is part of the review. A new webpage launching at the same time must be complete for the ad to be reviewed. | The ad destination, such as a website, is part of the review. | Publish the finished landing page before you submit ads, not on launch morning. |
+| Search ad text | Up to 15 headlines (30 characters each) and 4 descriptions (90 characters each) per responsive search ad. Path fields take up to 15 characters. | Not applicable. | Write headlines that still make sense in any order, and check lengths before upload. |
+| Conversion goal | Primary conversion actions are used for bidding. Secondary actions are observation only, unless they are part of a custom goal. | Not covered in this table. | Before you turn on Smart Bidding, confirm the action you want it to optimize for is primary or in a custom goal. |
+| Learning | Major structural changes, such as a new campaign or bid strategy, may show a temporary "Learning" status for up to 7 days. After a significant change in the conversions being optimized, Google suggests allowing 1 to 2 conversion cycles. | An ad set usually exits the learning phase after about 50 results in the week after its last significant edit. Ads Manager has a "Last significant edit" column. | Batch edits instead of making them daily, and note the date of each significant edit next to the results. |
+| Stuck in review | Under review for more than 2 full business days: check the ad's status. More than a week: contact Google Ads support. | In some cases review may take longer than 24 hours. | Put a review-status check date in the launch plan. |
+
+Sources, checked November 5, 2026:
+
+- [Google Ads Help: About the ad review process](https://support.google.com/google-ads/answer/1722120)
+- [Google Ads Help: About responsive search ads](https://support.google.com/google-ads/answer/7684791)
+- [Google Ads Help: About primary and secondary conversion actions](https://support.google.com/google-ads/answer/11461796)
+- [Meta Business Help: About ads in review](https://www.facebook.com/business/help/204798856225114)
+- [Meta Business Help: About the learning phase](https://www.facebook.com/business/help/112167992830700)
+
+### The launch-week edit log
+
+When results move in the first week, the first question is usually "what changed?" Keep a simple log from the day ads are submitted.
+
+It helps the first weekly review separate platform review and learning from creative, offer, or landing-page problems. The review itself is covered in our [weekly marketing plan guide](/blog/weekly-marketing-plan-with-ai).
+
+Illustrative template (example rows, not real campaign data):
+
+| Date | Platform | What changed | Platform learning affected? | Approved by | What to compare after |
+|---|---|---|---|---|---|
+| Mon | Google Ads | Ads submitted paused for review | No | Owner | Status is "Eligible" before launch |
+| Wed | Meta | New ad set launched | Yes, learning starts | Owner | Results in the week after launch |
+| Thu | Website | Booking form shortened | No, site change | Web lead | Form completion rate |
+| Fri | Google Ads | Switched to a new bid strategy | Yes, may show "Learning" | Owner | Hold judgment until learning ends |
+
+If the log shows a significant edit two days before a bad week, that is the first thing to discuss, before rewriting the ads.
+
 ## 8. Publish with tracking and a review date
 
 Launch is not the finish line.
@@ -176,6 +216,8 @@ Before publishing, decide what will be reviewed and when. For a small campaign, 
 - When will the first review happen?
 
 If the campaign uses UTM parameters, document them. If the next step is a booking form, check that the form works. If the campaign sends people to pricing, make sure the pricing page supports the promise made in the ad. Teams comparing packages can review [Adessa pricing](/pricing) before deciding whether a full AI marketing workflow fits their stage.
+
+If an agency or contractor runs the ads, confirm before launch who owns the ad accounts, pixels, and tracking. Our [agency transition checklist](/blog/switching-ad-agencies-transition-checklist) lists what to check.
 
 Do not wait a month to learn from an avoidable issue. The first review should catch obvious problems: broken links, weak click-through, mismatched traffic, confusing comments, low-quality leads, or a landing page that does not carry the message.
 
