@@ -33,6 +33,24 @@ Ask for these before the old agency's access ends:
 - Approved creative, copy and destination URLs, with the date each version was approved.
 - The last few monthly reports, plus a note on how each metric was defined.
 
+## Don't lose leads in the handover
+
+Leads collected inside ad platforms don't stay there forever, and they don't always go where you think. Check these while the old agency still has access.
+
+- **Export lead-form leads before access changes, then again on cutover day.** Google Ads stores lead-form leads for 60 days, and the CSV download covers only the last 30 days. Meta Instant Form leads can be downloaded for up to 90 days after someone submits the form; after that, Ads Manager still counts them in Results, but you can't download them.
+- **Check who can export.** In Google Ads you need Standard or Admin access to download leads, and a manager account can download a client account's leads only if the client account gives it ownership. If only the agency's manager account has been pulling leads, have someone with Admin access on your own account run the export.
+- **List where every form sends leads today.** Google lead forms can deliver leads by CSV download, a webhook to your CRM, third-party integrations such as LeadsBridge, HubSpot, Salesforce or Zapier, or the Google Ads API. Meta's help center describes connecting a CRM, for example through Zapier, to retrieve Instant Form leads. If that destination is the agency's CRM or connector account, new leads keep going there after you leave.
+- **Repoint before you revoke.** Point each form at a destination you control first, then send a test lead and confirm it arrives. For Google webhooks, Google treats any response other than HTTP 200 from your endpoint as an error, so a form that looks connected can still fail.
+- **Keep website-form tracking intact.** If your site forms capture click IDs or UTM parameters in hidden fields, keep those fields through any landing-page rebuild. Leads that arrive without a source make the first month's comparison meaningless.
+
+Lead handover worksheet (template; fill in your own details):
+
+| Lead source | Platform keeps it | Who exports | Sent to today | New destination tested |
+|---|---|---|---|---|
+| Google lead form | 60 days (CSV: last 30) | | | |
+| Meta Instant Form | 90 days | | | |
+| Website form | Your CRM | | | |
+
 ## 3. Write down what "working" means
 
 Before the new team starts, record a baseline for the last 8–12 weeks: weekly spend, qualified leads or sales, cost per qualified result, and any weeks that looked unusual. Agree which conversion actions count. If the old and new teams define a lead differently, the first month of reporting will look like a change in performance when it is really a change in definition.
@@ -64,6 +82,7 @@ Decide who approves creative and who authorizes spend. An approved ad and an app
 | Payment method | | | | |
 | Change history export | | | | |
 | Conversion definitions | | | | |
+| Lead export and form destinations | | | | |
 | Creative and copy archive | | | | |
 | Cutover date | | | | |
 
@@ -83,3 +102,8 @@ Checked October 27, 2026:
 - Google Analytics Help: [Add, edit, and delete users](https://support.google.com/analytics/answer/9305788)
 - Tag Manager Help: [Managing users and permissions](https://support.google.com/tagmanager/answer/6107011)
 - Meta Business Help Center: [Give a partner access to business assets](https://www.facebook.com/business/help/1717412048538897) and [Add people to a business portfolio and assign a business asset](https://www.facebook.com/business/help/2169003770027706)
+
+Lead-handover section checked November 12, 2026:
+
+- Google Ads Help: [About lead form assets](https://support.google.com/google-ads/answer/9423234), [Download leads](https://support.google.com/google-ads/answer/10089020) and [How to set up a webhook integration for a lead form](https://support.google.com/google-ads/answer/16729613)
+- Meta Business Help Center: [About expired leads](https://www.facebook.com/business/help/1526849577619206)
