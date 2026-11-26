@@ -21,6 +21,20 @@ Here is the cleanest distinction:
 
 Both can use AI. Both can save time. But they are not interchangeable.
 
+## Scheduling tool vs AI social media manager
+
+A social media scheduling tool publishes the post you wrote, at the time you picked. An AI social media manager decides more of that for you: what to post, the draft itself, when it goes out, and what to repeat based on results. So the useful question is not which one has more AI. It is what you are still approving.
+
+| | Scheduling tool | AI social media manager |
+|---|---|---|
+| Topic | You pick it | Drafted from your brief and past results |
+| Post copy | You write it (AI may help rewrite) | The system drafts it |
+| Timing | You pick it | The system picks, inside rules you set |
+| After posting | Reports | Results feed the next drafts |
+| What you approve | Nothing extra; you wrote it | Each post, or the rules it posts within |
+
+Most products sit somewhere between the two columns. Ask a vendor to show you, for one real account, which of these rows a person still controls.
+
 ## What AI social media tools are best at
 
 AI social media tools are strongest when the inputs and outputs are clear.
@@ -92,6 +106,17 @@ That loop is the real difference. The value is not "AI wrote five captions." The
 
 This is the same standard we use in our broader guide to [what an AI marketing platform should actually do](/blog/ai-marketing-platform).
 
+### How to test whether a platform actually learns
+
+"Learns from results" is easy to claim and hard to see. During a trial, ask the vendor to show you these in your own account:
+
+- **A changed draft and its reason.** A draft that is different because of last week's results, and the result it points to.
+- **Different campaign types, handled differently.** How it treats a lead-generation campaign versus an awareness campaign: what it optimizes for and what it reports.
+- **What it does with thin data.** What happens when a result is ambiguous or the sample is too small. "Keep testing" is a better answer than a confident change after a handful of clicks.
+- **What it learned, in plain view.** Whether you can see what it has learned about your business, and correct it when it is wrong.
+
+If a vendor can only show this in a demo account, treat the claim as unproven for yours.
+
 ## When an AI social media tool is enough
 
 A focused AI social media tool can be the right choice when your marketing system is already mostly working.
@@ -151,6 +176,25 @@ If the problem is "we need more posts," buy for speed and ease.
 
 If the problem is "we need marketing to run with less manual coordination," buy for campaign depth, channel coverage, and feedback loops.
 
+## Before you let any tool publish for you
+
+Once a tool can post on its own, the questions change. These checks apply to any scheduler or AI social media manager, including ours.
+
+- **Approval mode.** Can you require approval for every post? Can you switch between approval and automatic posting per account, rather than for everything at once?
+- **Where it posts.** Does it publish directly, or send the post to the platform as a draft? TikTok's Content Posting API supports both: Direct Post publishes to the profile, while the upload flow sends the video to the creator's TikTok inbox, where the creator finishes editing and posts it.
+- **Who owns the connection.** On Instagram, API publishing works only for professional accounts. If the connected Facebook Page requires Page Publishing Authorization (PPA), nothing can be published until PPA is complete, so complete it before you rely on scheduled posts.
+- **Volume caps.** Platforms limit how much an app can publish per account. Instagram documents a rolling 24-hour publishing limit and an endpoint for checking current usage, and recommends that scheduling apps enforce it themselves. TikTok returns an error once an account reaches its daily API post cap. Ask whether the tool tracks these limits before a post fails.
+- **Unaudited apps.** TikTok restricts content posted by unaudited API clients to private viewing. A tool whose posts quietly go private is not really publishing for you, so check a test post from a logged-out view.
+- **Pause and audit trail.** How quickly can you stop every scheduled post? Can you see which posts went out automatically and which a person approved?
+- **Feedback loop.** Do results change the next drafts, and can the tool show you why it suggested a post?
+
+If the same tool also launches paid campaigns, ad platforms run their own review before anything goes live. Our [AI campaign launch checklist](/blog/ai-campaign-launch-checklist) covers that pre-flight.
+
+Sources, checked November 26, 2026:
+
+- TikTok for Developers: [Content Posting API: Get Started (Direct Post)](https://developers.tiktok.com/doc/content-posting-api-get-started), [Upload content](https://developers.tiktok.com/doc/content-posting-api-get-started-upload-content) and [Direct Post reference](https://developers.tiktok.com/doc/content-posting-api-reference-direct-post)
+- Meta for Developers: [Instagram Platform: Content Publishing](https://developers.facebook.com/docs/instagram-platform/content-publishing/)
+
 ## Red flags in both categories
 
 The AI label can hide weak products, so pressure-test the basics.
@@ -171,7 +215,7 @@ Good AI should make the work clearer. If the tool makes marketing feel faster bu
 
 Adessa is being built for the second category: AI marketing on autopilot.
 
-The goal is not only to help businesses make more social posts. The goal is to connect the campaign workflow: business context, channel-specific creative, social content, ads, landing pages, reporting, and iteration.
+The goal is not only to help businesses make more social posts. The goal is to connect the campaign workflow: business context, channel-specific creative, social content, ads, landing pages, reporting, and iteration. On social, Adessa drafts and schedules content for you to review and approve, tracks engagement, and makes more of what your audience responds to. You stay in control of what gets published.
 
 That matters because most teams do not lose because they lack one more caption. They lose because the whole system is fragmented.
 
